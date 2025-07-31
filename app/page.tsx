@@ -218,7 +218,7 @@ export default function RetroMacPortfolio() {
                   <span className="ml-4 font-mono text-sm text-retro-charcoal/60">developer.profile</span>
                 </div>
                 <img
-                  src="/placeholder.svg?height=400&width=400&text=Developer+Portrait"
+                  src="/profilepic.png?height=400&width=400&text=Developer+Portrait"
                   alt="Adithya"
                   className="w-full h-auto retro-image-filter"
                 />
